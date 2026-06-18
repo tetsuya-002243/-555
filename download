@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+/photos/
+/exports/
+/data/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.heif
+*.csv
+*.zip
